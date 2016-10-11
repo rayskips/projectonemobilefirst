@@ -79,9 +79,9 @@ border-width: 1px;
   margin: auto;
 }
 
-@media (min-width 769px){
-container-width:20%; 
-margin: 0 auto;
+@media only screen and (min-width: 500px) {
+    body {
+        background-color: lightblue;
+    }
 }
-
   
