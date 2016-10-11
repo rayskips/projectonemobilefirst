@@ -79,7 +79,7 @@ border-width: 1px;
   margin: auto;
 }
 
-@media (min-width: 500px) {
+@media (max-width: 500px) {
     body {
         background-color: lightblue;
     }
